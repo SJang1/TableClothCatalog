@@ -525,10 +525,6 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="hyundaicard.com">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="samsungcard.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
